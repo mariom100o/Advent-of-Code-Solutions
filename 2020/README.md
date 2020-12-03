@@ -6,7 +6,7 @@ Here are my solutions to the 2020 puzzles. I am hoping to get them done the same
 | Day | Stars | Day | Stars |
 | ------ | ------ | ------ | ------ |
 | **[1](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%201)** | ** | 14 | |
-| 2 |  | 15 |  |
+| **[2](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%202)** | ** | 15 |  |
 | 3 |  | 16 |  |
 | 4 |  | 17 |  |
 | 5 |  | 18 |  |
@@ -17,4 +17,4 @@ Here are my solutions to the 2020 puzzles. I am hoping to get them done the same
 | 10 |  | 23 |  |
 | 11 |  | 24 |  |
 | 12 |  | 25 |  |
-| 13 |  |
+| 13 |  | **Total:** | 4 |

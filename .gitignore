@@ -3,3 +3,5 @@
 !*.*
 .vscode
 **/*.out
+.gitignore
+2019

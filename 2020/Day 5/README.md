@@ -1,0 +1,2 @@
+# Advent of Code 2020 Day 5 Solution
+Parsing was very simple this time around. I easily put the boarding pass locations into a vector by reading the file line by line. For part one, I would find the upper half by rounding up the total rows divided by 2. To get the lower half I would just round down. Once I got the locations I could easily return the ID, then check if it is the maximum. For part two, I sorted the IDs to find a skip in the numbers. 

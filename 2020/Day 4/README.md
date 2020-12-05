@@ -1,0 +1,2 @@
+# Advent of Code 2020 Day 4 Solution
+This puzzle by far took me the longest to complete. To parse the input I created a new datatype. I built the data onto a variable and only pushed it back once the line was empty, meaning a new passport was being defined. Then, for the first part, I could just check if all required passport fields were present and increment the number of valid passports. The second part, height specifically, was a bit more tricky and cost me more time. I broke the height up into a substring so I can check if all required data was there.

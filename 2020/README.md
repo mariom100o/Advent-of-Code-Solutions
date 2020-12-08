@@ -11,10 +11,10 @@ Here are my solutions to the 2020 puzzles. I am hoping to get them done the same
 | **[4](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%204)** | ** | 17 |  |
 | **[5](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%205)** | ** | 18 |  |
 | **[6](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%206)** | ** | 19 |  |
-| 7 |  | 20 |  |
-| 8 |  | 21 |  |
+| **[7](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%206)** | ** | 20 |  |
+| **[8](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%206)** | ** | 21 |  |
 | 9 |  | 22 |  |
 | 10 |  | 23 |  |
 | 11 |  | 24 |  |
 | 12 |  | 25 |  |
-| 13 |  | **Total:** | 12 |
+| 13 |  | **Total:** | 16 |

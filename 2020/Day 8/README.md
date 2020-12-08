@@ -1,0 +1,2 @@
+# Advent of Code 2020 Day 8 Solution
+My solution was very object oriented. I had a struct which stores details about the instruction. Then I had a class which had many functions. For the first part, I had a executed bool which would become true if it was visited. Then, I would go through the program until I hit a executed instruction and return the accumulator count. For the second part, I try every possible "fix" i the instructions. Once I find one that is not a loop, I run through the program and return the accumulator. 

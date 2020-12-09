@@ -13,8 +13,8 @@ Here are my solutions to the 2020 puzzles. I am hoping to get them done the same
 | **[6](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%206)** | ** | 19 |  |
 | **[7](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%207)** | ** | 20 |  |
 | **[8](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%208)** | ** | 21 |  |
-| 9 |  | 22 |  |
+| **[9](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%209)** | ** | 22 |  |
 | 10 |  | 23 |  |
 | 11 |  | 24 |  |
 | 12 |  | 25 |  |
-| 13 |  | **Total:** | 16 |
+| 13 |  | **Total:** | 18 |

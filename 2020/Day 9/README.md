@@ -1,0 +1,2 @@
+# Advent of Code 2020 Day 9 Solution
+I was quite confused at the start of this puzzle, but then it eventually made sense. I stores the numbers in a vector. For the first part, I would call a two sum on a vector of the previous 25 numbers. If it there isn't a two sum result, we can return the number. For part two, I looped through every element in the input. Then I would add the next elements until I either reached the target or passed it. Finally, return the min and max's sum of the contiguous set. 

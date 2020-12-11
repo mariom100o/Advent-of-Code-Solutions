@@ -1,0 +1,2 @@
+# Advent of Code 2020 Day 11 Solution
+To parse it, I just stored each line in a vector of strings. For part one, I checked each seat in every direction, if applicable, and incremented a count if the seat was taken. Then with the count I would know if there are either no seats adjacent or at most 4. For part two, I used a while loop to keep going in the same direction until it find a seat. If it was taken I incremented the count.  

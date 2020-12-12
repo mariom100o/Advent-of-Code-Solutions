@@ -1,0 +1,2 @@
+# Advent of Code 2020 Day 12 Solution
+To parse, I made a new datatype and stored the direction and distance in it. Then I stored each action in a vector. I then looped through the vector and did all of the actions. For part one, I kept track of the x and y coordinates of the ferry. And the end of the actions I return the sum of the distances. For part 2, it was basically the same thing. To rotate clock-wise, I used (-y, x). To rotate counter-clockwise, I used (-y, x).  

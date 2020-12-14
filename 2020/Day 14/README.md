@@ -1,0 +1,2 @@
+# Advent of Code 2020 Day 14 Solution
+To parse, I made a struct that stores the mask, location and value of the memory write. I stored each memory write in a vector. For part 1, I looped through each memory write, applied the converted the value to binary and applied the mask. Then I put the value in an unordered map, mapped to it's location. For part 2, I recursively found each combination. Then for each combination I did the same thing as part 1 but instead masked the location.    

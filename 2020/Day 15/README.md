@@ -1,0 +1,2 @@
+# Advent of Code 2020 Day 15 Solution
+To parse, I mapped each number to the turn it was said. I do not add the last number to the map, but instead just record it as last spoken. This is so the number does not overwrite the previous same number said. This allows be to find the difference of two different number's turn said. After looping through 2020 and 30000000 turns played, I get my answers.    

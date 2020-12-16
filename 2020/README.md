@@ -7,7 +7,7 @@ Here are my solutions to the 2020 puzzles. I am hoping to get them done the same
 | ------ | ------ | ------ | ------ |
 | **[1](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%201)**   | ** | **[14](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%2014)** | ** |
 | **[2](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%202)**   | ** | **[15](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%2015)** | ** |
-| **[3](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%203)**   | ** | 16 |  |
+| **[3](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%203)**   | ** | **[16](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%2016)** | ** |
 | **[4](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%204)**   | ** | 17 |  |
 | **[5](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%205)**   | ** | 18 |  |
 | **[6](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%206)**   | ** | 19 |  |
@@ -17,4 +17,4 @@ Here are my solutions to the 2020 puzzles. I am hoping to get them done the same
 | **[10](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%2010)** | ** | 23 |  |
 | **[11](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%2011)** | ** | 24 |  |
 | **[12](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%2012)** | ** | 25 |  |
-| **[13](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%2013)** | ** | **Total:** | 30 |
+| **[13](https://github.com/mariom100o/Advent-of-Code-Solutions/tree/main/2020/Day%2013)** | ** | **Total:** | 32 |

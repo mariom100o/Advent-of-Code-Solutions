@@ -1,0 +1,2 @@
+# Advent of Code 2020 Day 17 Solution
+I thought this was never going to be possible to solve, but I managed! I had a 4 dimensional "universe" which contained my input directly in the middle. It had padding of just space around it. For the first part, I checked all 27 neighbors then found which ones I had to change. But then for part 2, I checked.. you guessed it! All 80 neighbors. I did this through the use of loops. Then it was the same as 3d, but with an added dimension.    

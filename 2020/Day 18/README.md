@@ -1,0 +1,2 @@
+# Advent of Code 2020 Day 18 Solution
+To parse, I added all of the operands and operators in a deque. For part one, I went through the queue from left to right. If we hit a parenthesis we call the evaulate function on it, so we solve it. For part two, I went and only did the addition and when I hit a multiply operator, I add it to a simplified queue which I solve after.  

@@ -20,23 +20,20 @@ const checkIfImpossible = (x, y) => {
   return false;
 };
 
-const getEdges = (x, y, distance) => {
-  let edges = [];
-
-  // Push the edges of the diamond shape from the sensor and its distance
-  for (let i = distance; i >= 0; i--) {
-    edges.push({ x: x + i + 1, y: y - Math.abs(distance - i) });
-    edges.push({ x: x - i - 1, y: y + Math.abs(distance - i) });
-  }
-
-  return edges;
-};
-
 const findHiddenBeacon = () => {
   // For every sensor, check if its edges are possible positions for the beacon
   for (let [sensor, distance] of impossibleRanges) {
-    let edges = getEdges(sensor.x, sensor.y, distance);
-    for (let edge of edges) if (!checkIfImpossible(edge.x, edge.y)) return edge;
+    let x = sensor.x;
+    let y = sensor.y;
+
+    for (let i = distance; i >= 0; i--) {
+      if (
+        !checkIfImpossible(sensor.x + i + 1, sensor.y - Math.abs(distance - i))
+      )
+        return { x: sensor.x + i + 1, y: sensor.y - Math.abs(distance - i) };
+      if (!checkIfImpossible(x - i - 1, y + Math.abs(distance - i)))
+        return { x: sensor.x - i - 1, y: sensor.y + Math.abs(distance - i) };
+    }
   }
 };
 

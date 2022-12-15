@@ -21,10 +21,10 @@ for (let [sensor, beacon] of input) {
   let yDiff = Math.abs(Y_LEVEL - sensor.y);
 
   for (let x = 0; x <= distance - yDiff - 1; x++) {
-    if (!specialPositions.has(`${sensor.x + x},${Y_LEVEL}`))
-      impossiblePositions.add(`${sensor.x + x},${Y_LEVEL}`);
-    if (!specialPositions.has(`${sensor.x - x},${Y_LEVEL}`))
-      impossiblePositions.add(`${sensor.x - x},${Y_LEVEL}`);
+    if (!specialPositions.has(`${sensor.x + x}`))
+      impossiblePositions.add(`${sensor.x + x}`);
+    if (!specialPositions.has(`${sensor.x - x}`))
+      impossiblePositions.add(`${sensor.x - x}`);
   }
 }
 

@@ -19,16 +19,13 @@ for (let i = 0; i < input.length; i++) {
   if (num < 0) num = ((num * -1) % (mixed.length - 1)) * -1;
   while (num > 0) {
     if (newIdx == mixed.length - 1) newIdx = 0;
-
     newIdx++;
     num--;
-    if (newIdx == mixed.length - 1) newIdx = 0;
   }
   while (num < 0) {
     if (newIdx == 0) newIdx = mixed.length - 1;
     newIdx--;
     num++;
-    if (newIdx == 0) newIdx = mixed.length - 1;
   }
   remove(mixed, input[i].idx);
 

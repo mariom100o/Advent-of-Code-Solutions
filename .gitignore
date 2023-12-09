@@ -1,0 +1,14 @@
+*
+!*/
+!*.*
+.vscode
+**/*.out
+tempCodeRunnerFile.*
+.prettierrc
+*.html
+*.css
+visualization.js
+/template
+input.txt
+template/
+.idea
